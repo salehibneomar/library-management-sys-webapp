@@ -1,5 +1,5 @@
 # library management system
-RAW PHP Library Management System
+PHP 7, MySQL, Server side Datatables
 
 Admin + Client
 Fully functional
